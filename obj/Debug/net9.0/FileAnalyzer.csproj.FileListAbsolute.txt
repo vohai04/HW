@@ -1,0 +1,17 @@
+D:\codePrn\HW2\FileAnalyzer\bin\Debug\net9.0\FileAnalyzer.exe
+D:\codePrn\HW2\FileAnalyzer\bin\Debug\net9.0\FileAnalyzer.deps.json
+D:\codePrn\HW2\FileAnalyzer\bin\Debug\net9.0\FileAnalyzer.runtimeconfig.json
+D:\codePrn\HW2\FileAnalyzer\bin\Debug\net9.0\FileAnalyzer.dll
+D:\codePrn\HW2\FileAnalyzer\bin\Debug\net9.0\FileAnalyzer.pdb
+D:\codePrn\HW2\FileAnalyzer\obj\Debug\net9.0\FileAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\codePrn\HW2\FileAnalyzer\obj\Debug\net9.0\FileAnalyzer.AssemblyInfoInputs.cache
+D:\codePrn\HW2\FileAnalyzer\obj\Debug\net9.0\FileAnalyzer.AssemblyInfo.cs
+D:\codePrn\HW2\FileAnalyzer\obj\Debug\net9.0\FileAnalyzer.csproj.CoreCompileInputs.cache
+D:\codePrn\HW2\FileAnalyzer\obj\Debug\net9.0\FileAnalyzer.dll
+D:\codePrn\HW2\FileAnalyzer\obj\Debug\net9.0\refint\FileAnalyzer.dll
+D:\codePrn\HW2\FileAnalyzer\obj\Debug\net9.0\FileAnalyzer.pdb
+D:\codePrn\HW2\FileAnalyzer\obj\Debug\net9.0\FileAnalyzer.genruntimeconfig.cache
+D:\codePrn\HW2\FileAnalyzer\obj\Debug\net9.0\ref\FileAnalyzer.dll
+D:\codePrn\HW2\FileAnalyzer\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\codePrn\HW2\FileAnalyzer\obj\Debug\net9.0\FileAnalyzer.csproj.AssemblyReference.cache
+D:\codePrn\HW2\FileAnalyzer\obj\Debug\net9.0\FileAnal.7C274443.Up2Date

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RbYvs5HuL5s=",
+  "success": true,
+  "projectFilePath": "D:\\codePrn\\HW2\\FileAnalyzer\\FileAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haivo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
