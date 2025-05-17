@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codePrn\\HW1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E4DFA1-4915-4154-AA78-06F985F02D50}|CommandLineCalculator\\CommandLineCalculator.csproj|d:\\codeprn\\hw1\\commandlinecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E4DFA1-4915-4154-AA78-06F985F02D50}|CommandLineCalculator\\CommandLineCalculator.csproj|solutionrelative:commandlinecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E4DFA1-4915-4154-AA78-06F985F02D50}|CommandLineCalculator\\CommandLineCalculator.csproj|d:\\codeprn\\hw1\\commandlinecalculator\\commandlinecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{94E4DFA1-4915-4154-AA78-06F985F02D50}|CommandLineCalculator\\CommandLineCalculator.csproj|solutionrelative:commandlinecalculator\\commandlinecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandLineCalculator.csproj",
+              "DocumentMoniker": "D:\\codePrn\\HW1\\CommandLineCalculator\\CommandLineCalculator.csproj",
+              "RelativeDocumentMoniker": "CommandLineCalculator\\CommandLineCalculator.csproj",
+              "ToolTip": "D:\\codePrn\\HW1\\CommandLineCalculator\\CommandLineCalculator.csproj",
+              "RelativeToolTip": "CommandLineCalculator\\CommandLineCalculator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T14:06:07.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\codePrn\\HW1\\CommandLineCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "CommandLineCalculator\\Program.cs",
+              "ToolTip": "D:\\codePrn\\HW1\\CommandLineCalculator\\Program.cs",
+              "RelativeToolTip": "CommandLineCalculator\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwD0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:04:57.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

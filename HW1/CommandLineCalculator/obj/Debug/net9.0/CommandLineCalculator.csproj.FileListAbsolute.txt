@@ -1,0 +1,14 @@
+D:\codePrn\HW1\CommandLineCalculator\bin\Debug\net9.0\CommandLineCalculator.exe
+D:\codePrn\HW1\CommandLineCalculator\bin\Debug\net9.0\CommandLineCalculator.deps.json
+D:\codePrn\HW1\CommandLineCalculator\bin\Debug\net9.0\CommandLineCalculator.runtimeconfig.json
+D:\codePrn\HW1\CommandLineCalculator\bin\Debug\net9.0\CommandLineCalculator.dll
+D:\codePrn\HW1\CommandLineCalculator\bin\Debug\net9.0\CommandLineCalculator.pdb
+D:\codePrn\HW1\CommandLineCalculator\obj\Debug\net9.0\CommandLineCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\codePrn\HW1\CommandLineCalculator\obj\Debug\net9.0\CommandLineCalculator.AssemblyInfoInputs.cache
+D:\codePrn\HW1\CommandLineCalculator\obj\Debug\net9.0\CommandLineCalculator.AssemblyInfo.cs
+D:\codePrn\HW1\CommandLineCalculator\obj\Debug\net9.0\CommandLineCalculator.csproj.CoreCompileInputs.cache
+D:\codePrn\HW1\CommandLineCalculator\obj\Debug\net9.0\CommandLineCalculator.dll
+D:\codePrn\HW1\CommandLineCalculator\obj\Debug\net9.0\refint\CommandLineCalculator.dll
+D:\codePrn\HW1\CommandLineCalculator\obj\Debug\net9.0\CommandLineCalculator.pdb
+D:\codePrn\HW1\CommandLineCalculator\obj\Debug\net9.0\CommandLineCalculator.genruntimeconfig.cache
+D:\codePrn\HW1\CommandLineCalculator\obj\Debug\net9.0\ref\CommandLineCalculator.dll
