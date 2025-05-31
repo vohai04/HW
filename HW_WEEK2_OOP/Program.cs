@@ -204,7 +204,7 @@ namespace HW_oop
                 // Ref returns demonstration
                 Console.WriteLine("\n===== ADVANCED: Ref Returns =====");
                 
-                try
+                /*try
                 {
                     ref var itemRef = ref library.GetItemReference(1);
                     Console.WriteLine($"Before modification: {itemRef.Title}");
@@ -220,7 +220,7 @@ namespace HW_oop
                 catch (Exception ex)
                 {
                     Console.WriteLine($"Error: {ex.Message}");
-                }
+                } */
                 
                 // Nullable types demonstration
                 Console.WriteLine("\n===== ADVANCED: Nullable Types =====");
